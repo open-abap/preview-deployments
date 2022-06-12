@@ -1,0 +1,22 @@
+"use strict";
+/*
+ * ATTENTION: The "eval" devtool has been used (maybe by default in mode: "development").
+ * This devtool is neither made for production nor for readable output files.
+ * It uses "eval()" calls to create a separate source file in the browser devtools.
+ * If you are trying to read the output file, select a different devtool (https://webpack.js.org/configuration/devtool/)
+ * or disable the default devtool with "devtool: false".
+ * If you are looking for production-ready output files, see mode: "production" (https://webpack.js.org/configuration/mode/).
+ */
+(self["webpackChunkopen_table_maintenance"] = self["webpackChunkopen_table_maintenance"] || []).push([["output_ddfields_ttyp_mjs"],{
+
+/***/ "./output/ddfields.ttyp.mjs":
+/*!**********************************!*\
+  !*** ./output/ddfields.ttyp.mjs ***!
+  \**********************************/
+/***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\nabap.DDIC[\"DDFIELDS\"] = {\n  \"objectType\": \"TTYP\",\n  \"type\": new abap.types.Table(new abap.types.Structure({tabname: new abap.types.Character({length: 30, qualifiedName: \"DFIES-TABNAME\"}), fieldname: new abap.types.Character({length: 30, qualifiedName: \"DFIES-FIELDNAME\"}), langu: new abap.types.Character({qualifiedName: \"DFIES-LANGU\"}), position: new abap.types.Character({qualifiedName: \"DFIES-POSITION\"}), offset: new abap.types.Character({qualifiedName: \"DFIES-OFFSET\"}), domname: new abap.types.Character({qualifiedName: \"DFIES-DOMNAME\"}), rollname: new abap.types.Character({qualifiedName: \"DFIES-ROLLNAME\"}), checktable: new abap.types.Character({qualifiedName: \"DFIES-CHECKTABLE\"}), leng: new abap.types.Character({qualifiedName: \"DFIES-LENG\"}), intlen: new abap.types.Character({qualifiedName: \"DFIES-INTLEN\"}), outputlen: new abap.types.Character({qualifiedName: \"DFIES-OUTPUTLEN\"}), decimals: new abap.types.Character({qualifiedName: \"DFIES-DECIMALS\"}), datatype: new abap.types.Character({qualifiedName: \"DFIES-DATATYPE\"}), inttype: new abap.types.Character({qualifiedName: \"DFIES-INTTYPE\"}), reftable: new abap.types.Character({qualifiedName: \"DFIES-REFTABLE\"}), reffield: new abap.types.Character({qualifiedName: \"DFIES-REFFIELD\"}), precfield: new abap.types.Character({qualifiedName: \"DFIES-PRECFIELD\"}), authorid: new abap.types.Character({qualifiedName: \"DFIES-AUTHORID\"}), memoryid: new abap.types.Character({qualifiedName: \"DFIES-MEMORYID\"}), logflag: new abap.types.Character({qualifiedName: \"DFIES-LOGFLAG\"}), mask: new abap.types.Character({qualifiedName: \"DFIES-MASK\"}), masklen: new abap.types.Character({qualifiedName: \"DFIES-MASKLEN\"}), convexit: new abap.types.Character({qualifiedName: \"DFIES-CONVEXIT\"}), headlen: new abap.types.Character({qualifiedName: \"DFIES-HEADLEN\"}), scrlen1: new abap.types.Character({qualifiedName: \"DFIES-SCRLEN1\"}), scrlen2: new abap.types.Character({qualifiedName: \"DFIES-SCRLEN2\"}), scrlen3: new abap.types.Character({qualifiedName: \"DFIES-SCRLEN3\"}), fieldtext: new abap.types.Character({qualifiedName: \"DFIES-FIELDTEXT\"}), reptext: new abap.types.Character({qualifiedName: \"DFIES-REPTEXT\"}), scrtext_s: new abap.types.Character({qualifiedName: \"DFIES-SCRTEXT_S\"}), scrtext_m: new abap.types.Character({qualifiedName: \"DFIES-SCRTEXT_M\"}), scrtext_l: new abap.types.Character({qualifiedName: \"DFIES-SCRTEXT_L\"}), keyflag: new abap.types.Character({qualifiedName: \"DFIES-KEYFLAG\"}), lowercase: new abap.types.Character({qualifiedName: \"DFIES-LOWERCASE\"}), mac: new abap.types.Character({qualifiedName: \"DFIES-MAC\"}), genkey: new abap.types.Character({qualifiedName: \"DFIES-GENKEY\"}), noforkey: new abap.types.Character({qualifiedName: \"DFIES-NOFORKEY\"}), valexi: new abap.types.Character({qualifiedName: \"DFIES-VALEXI\"}), noauthch: new abap.types.Character({qualifiedName: \"DFIES-NOAUTHCH\"}), sign: new abap.types.Character({qualifiedName: \"DFIES-SIGN\"}), dynpfld: new abap.types.Character({qualifiedName: \"DFIES-DYNPFLD\"}), f4availabl: new abap.types.Character({qualifiedName: \"DFIES-F4AVAILABL\"}), comptype: new abap.types.Character({qualifiedName: \"DFIES-COMPTYPE\"}), outputstyle: new abap.types.Character({qualifiedName: \"DFIES-OUTPUTSTYLE\"})}, \"DFIES\"), {\"withHeader\":false}),\n};\n\n//# sourceURL=webpack://open-table-maintenance/./output/ddfields.ttyp.mjs?");
+
+/***/ })
+
+}]);
